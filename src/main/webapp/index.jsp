@@ -42,7 +42,7 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">
-          Prodevans Demo
+          Prodevans Tasks
         </a>
       </div>
       <div class="collapse navbar-collapse navbar-collapse-1">
