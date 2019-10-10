@@ -26,4 +26,4 @@ steps:
     azureSubscription: 563c8932-3d5c-48e0-86bf-5ba2e59d635c
     appType: webAppLinux
     appName: isac123
-    package: '$(Pipeline.Workspace)/drop/**/target/*.?(war|jar)'
+    
